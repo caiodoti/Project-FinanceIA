@@ -1,6 +1,6 @@
 # 🤖 WhatsApp Finance Bot com IA Local
 
-Bot financeiro para WhatsApp com IA gratuita para análise de gastos.
+Bot financeiro para WhatsApp com IA para análise de gastos.
 
 ## ⚙️ Como rodar
 
