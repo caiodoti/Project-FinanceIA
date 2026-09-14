@@ -1,4 +1,5 @@
 # 🤖 WhatsApp Finance Bot com IA Local
+(Projeto finalizado, porém pausado)
 
 Bot financeiro para WhatsApp com IA para análise de gastos.
 
